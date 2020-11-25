@@ -1,5 +1,6 @@
 # Productivity Hack
 This web app has a countdown timer to manage time and also has a meditation app which helps you to relax in the middle of your stressful schedule.
+![View it](https://sapna2001.github.io/Productivity-Hack/)
 
 ## Teach stacks used :-
 - HTML
